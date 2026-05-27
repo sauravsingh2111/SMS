@@ -12,7 +12,7 @@
 pkg update && pkg upgrade -y
 pkg install python termux-api -y
 pip install telebot requests pillow
-termux-setup-storage
+termux-setup-storage```
 
-### Stop
-ctrl+c
+### stop
+   ctrl+c
